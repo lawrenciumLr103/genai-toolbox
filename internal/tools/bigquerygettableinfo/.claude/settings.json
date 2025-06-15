@@ -1,0 +1,31 @@
+{
+  "component": {
+    "name": "bigquerygettableinfo",
+    "type": "System Component",
+    "status": "OPERATIONAL",
+    "hierarchy_level": "Level 10",
+    "parent_system": "tools",
+    "last_updated": "2025-06-14"
+  },
+  "capabilities": {
+    "primary_functions": [
+      "Core bigquerygettableinfo operations",
+      "Integration management",
+      "Data processing"
+    ],
+    "tools_available": [
+      "filesystem MCP",
+      "Relevant MCP servers"
+    ],
+    "integrations": [
+      "tools",
+      "AGENTIC_INFRASTRUCTURE"
+    ]
+  },
+  "metadata": {
+    "created_by": "AGENTIC_INFRASTRUCTURE Deployment",
+    "creation_date": "2025-06-14",
+    "version": "1.0.0",
+    "component_id": "C:\\_AGENTIC_INFRASTRUCTURE_001_DIGITAL_CORE_001_central_intelligence_007_mcp_central_servers_genai-toolbox_internal_tools_bigquerygettableinfo"
+  }
+}

@@ -1,0 +1,28 @@
+# bigquery - AGENTIC_INFRASTRUCTURE Context
+
+## Component Overview
+
+bigquery serves as a Intelligence Component within the AGENTIC_INFRASTRUCTURE, providing specialized functionality across the the AGENTIC_INFRASTRUCTURE ecosystem.
+
+## Directory Structure
+
+```
+bigquery/
+├── .claude/                 [Component context and documentation]
+├── mcp_quickstart/
+```
+
+## Primary Functions
+
+1. **Core Operations**: Primary bigquery functionality
+2. **Integration Management**: Manages connections with other components
+3. **Data Processing**: Handles data flow and transformations
+
+## Integration Points
+
+- **Parent**: samples - Inherits samples capabilities
+- **MCP Integration**: Leverages relevant MCP servers for operations
+  
+## Status: 🟢 OPERATIONAL
+
+Last Updated: 2025-06-14

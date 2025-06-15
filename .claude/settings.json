@@ -1,0 +1,29 @@
+{
+  "component_name": "genai-toolbox",
+  "version": "0.7.0",
+  "status": "in_development",
+  "last_updated": "2025-06-12",
+  "capabilities": [
+    "Provides a secure and efficient way for agents to interact with various databases.",
+    "Handles connection pooling, authentication, and other database complexities.",
+    "Allows for the centralized management and versioning of database tools."
+  ],
+  "relationships": {
+    "parent": "007_mcp_central/servers",
+    "children": [],
+    "related_components": [
+      "coceo_shell-gemini"
+    ]
+  },
+  "security": {
+    "access_level": "high",
+    "notes": "This component handles direct database access and should be configured with extreme care."
+  },
+  "operational_metrics": {
+    "supported_databases": [
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "tools_defined": 0
+  }
+}

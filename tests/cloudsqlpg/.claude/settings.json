@@ -1,0 +1,31 @@
+{
+  "component": {
+    "name": "cloudsqlpg",
+    "type": "System Component",
+    "status": "OPERATIONAL",
+    "hierarchy_level": "Level 9",
+    "parent_system": "tests",
+    "last_updated": "2025-06-14"
+  },
+  "capabilities": {
+    "primary_functions": [
+      "Core cloudsqlpg operations",
+      "Integration management",
+      "Data processing"
+    ],
+    "tools_available": [
+      "filesystem MCP",
+      "Relevant MCP servers"
+    ],
+    "integrations": [
+      "tests",
+      "AGENTIC_INFRASTRUCTURE"
+    ]
+  },
+  "metadata": {
+    "created_by": "AGENTIC_INFRASTRUCTURE Deployment",
+    "creation_date": "2025-06-14",
+    "version": "1.0.0",
+    "component_id": "C:\\_AGENTIC_INFRASTRUCTURE_001_DIGITAL_CORE_001_central_intelligence_007_mcp_central_servers_genai-toolbox_tests_cloudsqlpg"
+  }
+}
